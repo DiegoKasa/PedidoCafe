@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P04_Java_PedidoCafe.iml" filepath="$PROJECT_DIR$/P04_Java_PedidoCafe.iml" group="P04_Java_PedidoCafe" />
+      <module fileurl="file://$PROJECT_DIR$/P4_Java_PedidoCafe.iml" filepath="$PROJECT_DIR$/P4_Java_PedidoCafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="P04_Java_PedidoCafe/app" />
+    </modules>
+  </component>
+</project>
